@@ -12,7 +12,7 @@ Frontend of a full-stack Timesheet Management System built using **Angular** and
 - Integrated Toastr feedback and pagination
 
 ## 🧠 Tech Stack
-- **Angular 15+**
+- **Angular 20**
 - **TypeScript**
 - **HTML/CSS**
 - **Bootstrap**
